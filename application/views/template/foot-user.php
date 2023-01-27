@@ -3,7 +3,7 @@
         <div class="row align-items-center justify-content-xl-between">
           <div class="col-xl-12">
             <div class="copyright text-center text-xl-center text-muted">
-              &copy; 2019 <label class="font-weight-bold ml-1 text-blue">Rahmad Susilo - Yudha Putra</label>
+              &copy; 2019 <label class="font-weight-bold ml-1 text-blue">Rahmad Susilo - Yudha Yuwanda Putra</label>
             </div>
           </div>
         </div>
